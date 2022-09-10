@@ -108,7 +108,7 @@ function registrar(){
 
     if(despesa.validarDados()){
         bd.gravar(despesa)
-        alert('Cadastrada com sucesso');
+        alert('Despesa Cadastrada com sucesso');
         ano.value = ''
         mes.value = ''
         dia.value = ''
