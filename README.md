@@ -7,4 +7,4 @@ Pode ta filtrando é excluindo as receitas.
 
 Os dados ficam armazenados no LocalStorage, pois ainda não foi apresentado conteudos de Banco de Dados.
 
-link para visualizar https://lukasstranges.github.io/Or-amento-Pessoal/
+link para visualizar https://lukasstranges.github.io/Orcamento-Pessoal
